@@ -8,7 +8,7 @@ You can submit support tickets when:
 
 - You have some questions for [developer documents](https://developers.karte.io).
 - You can't set up Karte.
-- You have a problem of using out APIs.
+- You have some problem of using our APIs.
 - etc..
 
 If you have some sensitive question, please directly contact your account manager of Karte.
