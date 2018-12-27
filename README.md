@@ -1,4 +1,4 @@
-# support issue tracker for Karte
+# Support issue tracker of Karte for developers
 
 https://developers.karte.io
 
