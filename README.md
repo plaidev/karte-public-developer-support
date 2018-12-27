@@ -1,4 +1,4 @@
-# Support issue tracker of Karte for developers
+# Technical issue tracker of Karte.Io
 
 https://developers.karte.io
 
@@ -6,7 +6,7 @@ https://developers.karte.io
 
 You can submit support tickets when:
 
-- You have some question for [developer documents](https://developers.karte.io)
+- You have some question for [developer documents](https://developers.karte.io).
 - You can't proceed the setup of Karte.
 - You have the problem of using out APIs.
 - etc..
