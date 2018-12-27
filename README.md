@@ -1,4 +1,4 @@
-# Technical support for Karte.Io
+# Technical support for Developers.Karte.Io
 
 https://developers.karte.io
 
@@ -7,8 +7,8 @@ https://developers.karte.io
 You can submit support tickets when:
 
 - You have some questions for [developer documents](https://developers.karte.io).
-- You can't proceed the set up of Karte.
-- You have the problem of using out APIs.
+- You can't set up Karte.
+- You have a problem of using out APIs.
 - etc..
 
 If you have some sensitive question, please directly contact your account manager of Karte.
